@@ -1,0 +1,7 @@
+*.exe
+*.dll
+*.so
+*.dylib
+fastproxy-admin/fastproxy-admin
+fastproxy-api/fastproxy-api
+.idea/

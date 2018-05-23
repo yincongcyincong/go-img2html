@@ -53,7 +53,7 @@ func createImg(img, html, font string) (err error) {
         body {
             margin: 0px; 
 			padding: 0px; 
-			line-height:100%; 
+			line-height:50%; 
 			letter-spacing:0px; 
 			text-align: center;
             width: auto !important;
